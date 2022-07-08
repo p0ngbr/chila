@@ -32,7 +32,7 @@ Cool, right?
 4. Enjoy
 
 ### Development
-**chila** is under heavy development (has will help me to practice Ruby language). So bugs are expected.
+**chila** is under development (helps to practice Ruby language). So bugs are expected.
 
 #### What is currently working?
 - [x] Create buckets
